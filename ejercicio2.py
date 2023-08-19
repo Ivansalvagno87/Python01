@@ -4,4 +4,4 @@ digito1 = float(input("ingresa un numero "))
 digito2 = float(input("ingresa otro numero "))
 
 resultado = digito1 + digito2
-print("La suma de", digito1, "y", digitp2, "es:", resultado)
+print("La suma de", digito1, "y", digito2, "es:", resultado)
